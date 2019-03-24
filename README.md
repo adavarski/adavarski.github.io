@@ -1,4 +1,5 @@
-#my acrylic paintings
+#MY ACRYLIIC PAINITNGS
+
  40 x 40 x cm Acrylic on canvas
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/1-1.jpg)
  40 x 40 x cm Acrylic on canvas
