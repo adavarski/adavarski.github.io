@@ -1,5 +1,5 @@
 #my acrylic paintings
-
+ 40 x 40 x sm Acrylic on canvas
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/1-1.jpg)
  40 x 40 x sm Acrylic on canvas
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/1-2.jpg)
@@ -41,7 +41,6 @@
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/3-5.jpg)
  40 x 40 x sm Acrylic on canvas
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/3-6.jpg)
- 40 x 40 x sm Acrylic on canvas
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/4-1.jpg)
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/4-2.jpg)
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/4-3.jpg)
