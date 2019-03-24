@@ -32,24 +32,35 @@
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/2-8.jpg)
  40 x 40 x cm : acrylic on canvas
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/3-1.jpg)
- 40 x 40 x cm : acrylic on canvas
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/3-2.jpg)
- 40 x 40 x cm : acrylic on canvas
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/3-3.jpg)
- 40 x 40 x cm : acrylic on canvas
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/3-4.jpg)
- 40 x 40 x cm : acrylic on canvas
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/3-5.jpg)
- 40 x 40 x cm : acrylic on canvas
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/3-6.jpg)
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/4-1.jpg)
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/4-2.jpg)
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/4-3.jpg)
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/4-4.jpg)
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/4-5.jpg)
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/5-1.jpg)
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/5-2.jpg)
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/5-3.jpg)
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/5-4.jpg)
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/5-5.jpg)
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/6-1.jpg)
