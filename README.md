@@ -44,16 +44,6 @@
 
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/3-6.jpg)
 
-![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/4-1.jpg)
-
-![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/4-2.jpg)
-
-![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/4-3.jpg)
-
-![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/4-4.jpg)
-
-![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/4-5.jpg)
-
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/5-1.jpg)
 
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/5-2.jpg)
