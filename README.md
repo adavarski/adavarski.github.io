@@ -10,7 +10,6 @@
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/1-4.jpg)
  40 x 40 x cm : acrylic on canvas
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/1-5.jpg)
-
  40 x 40 x cm : acrylic on canvas
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/1-6.jpg)
  40 x 40 x cm : acrylic on canvas
