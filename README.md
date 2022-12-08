@@ -55,3 +55,4 @@
 
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/3-2.jpg)
 
+![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/cover.jpg)
