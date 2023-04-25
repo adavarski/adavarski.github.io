@@ -53,6 +53,8 @@
 
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/6-1.jpg)
 
+![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/6-2.png)
+
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/3-2.jpg)
 
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/cover.jpg)
