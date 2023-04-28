@@ -53,7 +53,7 @@
 
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/6-1.jpg)
 
-![](https://github.com/adavarski/adavarski.github.io/blob/master/paintings/6-2.jpeg)
+![](https://github.com/adavarski/adavarski.github.io/blob/master/paintings/6-2.jpg)
 
 ![](https://raw.githubusercontent.com/adavarski/paintings/master/paintings/3-2.jpg)
 
